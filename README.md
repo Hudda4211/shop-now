@@ -1,1 +1,1 @@
-# shop-now
+# shop-now.com
